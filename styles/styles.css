@@ -1,29 +1,56 @@
-nav{ 
-background-color: darkblue;
-padding: 10px;
-}
-nav a {
+nav {
+    background-color: darkblue;
+    padding: 10px;
+  }
+  
+  nav a {
     color: white;
     display: block;
     padding: 20px;
-}
-h1{
+  }
+  
+  h1 {
     color: darkblue;
-}
-img {
+  }
+  
+  img {
     width: 100%;
     height: auto;
     border: 1px solid black;
     padding: 2px;
     box-shadow: 0 0 30px gray;
-
-}
-p{ 
+  }
+  
+  main img {
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+  
+  }
+  
+  p {
+    text-align: center;
+    padding-inline:block ;
+  }
+  
+  p {
     padding: 10px;
-
-}
-footer{
+  
+  }
+  
+  footer {
     margin-top: auto;
     border-top: 0cm;
     text-align: center;
-}
+  }
+  
+  aside {
+    background-color: lightblue;
+    padding: 10px;
+  }
+  
+  aside img {
+    text-align: center;
+  }
